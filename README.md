@@ -8,4 +8,4 @@ Assignment 6:https://github.com/2303A52114/GENERATIVE-AI/blob/main/Assignment-06
 Assignment 7:https://github.com/2303A52114/GENERATIVE-AI/blob/main/Assignment-07.ipynb                                          
 Assignment 8:https://github.com/2303A52114/GENERATIVE-AI/blob/main/Assignment_08.ipynb                              
 Assignment 9:https://github.com/2303A52114/GENERATIVE-AI/blob/main/Assignment_09.ipynb
-
+Assignment 10:https://github.com/2303A52114/GENERATIVE-AI/blob/main/Assignment%2010.ipynb
